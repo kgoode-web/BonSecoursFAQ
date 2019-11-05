@@ -1,1 +1,3 @@
 # BonSecoursFAQ
+
+Frequenty Asked Questions
